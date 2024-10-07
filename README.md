@@ -64,13 +64,3 @@
      />
   </a>
 </div>
-
-<!-- Wakatime stats (Light mode) -->
-<div align="center">
-  <a href="https://github.com/phiHero#gh-light-mode-only">
-    <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=phiHero&layout=compact&hide_border=true"
-        alt="My Wakatime stats"
-      />
-  </a>
-</div>
